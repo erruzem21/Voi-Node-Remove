@@ -97,7 +97,7 @@ sudo systemctl restart voi
 
 goal wallet new voi
 ```
-># burda size verilen 24 kelimeyi almanıza gerek yok önceki cüzdanınızın kelimelerinini import edeceksiniz.
+># burda size verilen 24 kelimeyi almanıza gerek yok, önceki cüzdanınızın kelimelerini import edeceksiniz.
 ```console
 goal account import
 ```
