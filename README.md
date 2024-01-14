@@ -1,5 +1,5 @@
 # Voi Node Taşıma
-# Bu rehber sadece nodunu başka bir sunucuya taşımak isteyenler içindir.
+# Bu rehber sadece nodunu başka bir sunucuya taşımak isteyenler içindir.  Sağlık skorunu aynen koruyacaktır.
 
 Rues'in (kendisine sonsuz teşekkür ederek) rehberinin ilgili yerlerini aynen alıp taşıma işleminde yapılacak işlemleri göstereceğim.
 > Başlamadan önce Eski Sunucunuzda Nodu Durdurun 
